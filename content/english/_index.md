@@ -26,7 +26,7 @@ features:
 
   - title: "Additional bonuses"
     image: "/images/service-2.png"
-    content: ""
+    content: "You'll get at least 1 improvement to your onboarding your can implement this week or you get a refund."
     bulletpoints:
       - "Scoring of your client onboarding journey"
       - "Action plan with additional improvements"
