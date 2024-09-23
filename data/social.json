@@ -1,0 +1,14 @@
+{
+  "main": [
+    {
+      "name": "email",
+      "icon": "fa-regular fa-envelope",
+      "link": "mailto:hello@automationk2a2.com"
+    },
+    {
+      "name": "linkedin",
+      "icon": "fab fa-linkedin-in",
+      "link": "https://www.linkedin.com/in/kennyalami/"
+    }
+  ]
+}
