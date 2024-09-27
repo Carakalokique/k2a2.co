@@ -14,4 +14,4 @@ My focus is to bring you the fastest results with a stable system. I hate being 
 
 Go ahead and click on the button below so we can make your onboarding the best it can be.
 
-{{< button label="I want to make my onboarding better" link="https://cal.com/kennyalami/client-journey-jumpstart" style="solid" >}}
+{{< button label="I want to make my onboarding better" link="https://cal.com/kennyalami/1-min-client-onboarding-intro-call" style="solid" >}}
