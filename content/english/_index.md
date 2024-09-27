@@ -2,38 +2,39 @@
 # Banner
 banner:
   title: "1-min client onboarding for your agency"
-  content: "We use automation to get an early 'WOW' from your clients, and reduce the admin load on your team."
+  content: "A Done-For-You automation service to get an early 'WOW' from your clients, and reduce the admin load on your team."
   image: "/images/banner.png"
   button:
     enable: true
     label: "I want to make my onboarding better"
-    link: "https://cal.com/kennyalami/client-journey-jumpstart"
+    link: "https://cal.com/kennyalami/1-min-client-onboarding-intro-call"
 
 # Features
 features:
-  - title: "What's Included in the Client Journey Jumpstart ($99)"
+  - title: "What's Included in the 1-minute Onboarding System Sprint ($3950)"
     image: "/images/service-1.png"
-    content: "Limited to one spot per week. You'll learn how to onboard a constant influx of clients and focus on what matters most to them: results."
+    content: "I only take on a new client every 2 weeks. Here's what you'll get:"
     bulletpoints:
-      - "Benchmarked review of your onboarding journey"
-      - "Live improvements based on real-world agencies"
-      - "Real-time suggestions to improve your onboarding"
-      - "Live demo of a world-class automated onboarding for an agency"
+      - "Automated onboarding system built for your agency within 2 months"
+      - "90-min workshop with your team to chop off the fat in your onboarding"
+      - "Detailed process map of your onboarding journey"
+      - "Videos explaining the new onboarding to easily onboard new team members"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://cal.com/kennyalami/client-journey-jumpstart"
+      label: "Book an intro call now"
+      link: "https://cal.com/kennyalami/1-min-client-onboarding-intro-call"
 
   - title: "Additional bonuses"
     image: "/images/service-2.png"
-    content: "You'll get at least 1 improvement to your onboarding to implement this week or you get a refund."
+    content: "Onboard your clients in one minute or I work with you for free until you can. Here are the additional things you'll get:"
     bulletpoints:
-      - "Scoring of your client onboarding journey"
-      - "Action plan with additional improvements"
-      - "The best tools for your onboarding (tool guide)"
-      - "Lifetime access to the call recording"
+      - "1-hour training call with your team"
+      - "Documented SOPs for the new onboarding"
+      - "Asynchronous support when needed"
+      - "Maintenance and bug monitoring for 6 months"
+      - "Video training on how to tweak the 1-minute Onboarding System"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://cal.com/kennyalami/client-journey-jumpstart"
+      label: "Book an intro call now"
+      link: "https://cal.com/kennyalami/1-min-client-onboarding-intro-call"
 ---
