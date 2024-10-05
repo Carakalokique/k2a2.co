@@ -1,7 +1,7 @@
 ---
 title: "Hey, I'm Kenny Alami!"
 meta_title: "About"
-description: "Kenny Alami's profile on k2a2.co"
+description: "Kenny Alami's about page on k2a2.co"
 image: "/images/avatar.png"
 draft: false
 ---
