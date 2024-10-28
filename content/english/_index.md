@@ -26,7 +26,7 @@ features:
       label: "Book an intro call now"
       link: "https://cal.com/kennyalami/1-min-client-onboarding-intro-call"
 
-  - title: "What's Included in the 1-minute Onboarding System Sprint ($3950)"
+  - title: "What's Included in the 1-minute Onboarding System Sprint"
     image: "/images/service-1.png"
     content: "Onboard your clients in 1 minute or I work with you for free until you can. Here is what you'll get:"
     bulletpoints:
