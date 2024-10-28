@@ -39,7 +39,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "book an intro call"
-link = "https://cal.com/kennyalami/client-journey-jumpstart"
+link = "https://cal.com/kennyalami/1-min-client-onboarding-intro-call"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
